@@ -4,8 +4,8 @@ HOST='185.61.137.174';
 USER='firenetv_almin';
 PASS='F1005r90@';
 DBNAME='firenetv_almin';
-PORT_TCP='';
-PORT_UDP='';
+PORT_TCP='1194';
+PORT_UDP='53';
 
 timedatectl set-timezone Asia/Riyadh
 install_require () {
